@@ -1,0 +1,30 @@
+﻿body {
+    margin : 0;
+    padding : 0;
+    height: 797px;
+}
+section {
+    background-image: url("https://www.10wallpaper.com/wallpaper/1366x768/1310/line_light_background_band-design_wallpaper_1366x768.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Contatiner {
+    width: 47vw;
+    height: 57vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    text-decoration-color : aliceblue;
+}
+.inner {
+    display: table-cell;
+    text-align:center;
+    vertical-align:middle;
+    height: 299px;
+}
+
